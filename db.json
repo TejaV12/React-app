@@ -1,0 +1,85 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    },
+    {
+      "id": "6d48"
+    },
+    {
+      "id": "43d8"
+    }
+  ],
+  "student": [
+    {
+      "id": "1",
+      "name": "a title",
+      "course": 100,
+      "fee": 90000
+    },
+    {
+      "id": "52d3",
+      "name": "Yellanki Ashish",
+      "course": "aiml",
+      "fee": "4"
+    },
+    {
+      "id": "a83a",
+      "name": "shiva",
+      "course": "cse",
+      "fee": "20000"
+    },
+    {
+      "id": "863e",
+      "name": "asdfghj",
+      "course": "sdfgg",
+      "fee": "100000"
+    },
+    {
+      "id": "d072",
+      "name": "VARUN TEJA ",
+      "course": "AIML",
+      "fee": "10000000"
+    },
+    {
+      "id": "9272",
+      "name": " TEJA ",
+      "course": "DS",
+      "fee": "111111111111234"
+    },
+    {
+      "id": "2",
+      "name": "SAI",
+      "course": "IT",
+      "fee": "1234567890"
+    },
+    {
+      "id": "1ad7",
+      "name": "VARUN TEJA ",
+      "course": "AIML",
+      "fee": "12345"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
